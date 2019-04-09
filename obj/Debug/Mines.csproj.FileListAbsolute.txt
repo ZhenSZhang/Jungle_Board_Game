@@ -1,0 +1,18 @@
+C:\Users\lizhi\Documents\Mines\Mines\bin\Debug\Mines.exe
+C:\Users\lizhi\Documents\Mines\Mines\bin\Debug\Mines.pdb
+C:\Users\lizhi\Documents\Mines\Mines\obj\Debug\Mines.csprojResolveAssemblyReference.cache
+C:\Users\lizhi\Documents\Mines\Mines\obj\Debug\Mines.BtnControl.resources
+C:\Users\lizhi\Documents\Mines\Mines\obj\Debug\Mines.MineFinder.resources
+C:\Users\lizhi\Documents\Mines\Mines\obj\Debug\Mines.Properties.Resources.resources
+C:\Users\lizhi\Documents\Mines\Mines\obj\Debug\Mines.csproj.GenerateResource.Cache
+C:\Users\lizhi\Documents\Mines\Mines\obj\Debug\Mines.exe
+C:\Users\lizhi\Documents\Mines\Mines\obj\Debug\Mines.pdb
+C:\Users\johnK\Desktop\简单扫雷 C#\Mines\Mines\Mines\obj\Debug\Mines.exe
+C:\Users\johnK\Desktop\简单扫雷 C#\Mines\Mines\Mines\obj\Debug\Mines.pdb
+C:\Users\johnK\Desktop\简单扫雷 C#\Mines\Mines\Mines\bin\Debug\Mines.exe
+C:\Users\johnK\Desktop\简单扫雷 C#\Mines\Mines\Mines\bin\Debug\Mines.pdb
+C:\Users\johnK\Desktop\简单扫雷 C#\Mines\Mines\Mines\obj\Debug\Mines.csprojResolveAssemblyReference.cache
+C:\Users\johnK\Desktop\简单扫雷 C#\Mines\Mines\Mines\obj\Debug\Mines.BtnControl.resources
+C:\Users\johnK\Desktop\简单扫雷 C#\Mines\Mines\Mines\obj\Debug\Mines.MineFinder.resources
+C:\Users\johnK\Desktop\简单扫雷 C#\Mines\Mines\Mines\obj\Debug\Mines.Properties.Resources.resources
+C:\Users\johnK\Desktop\简单扫雷 C#\Mines\Mines\Mines\obj\Debug\Mines.csproj.GenerateResource.Cache

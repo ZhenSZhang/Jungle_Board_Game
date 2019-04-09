@@ -1,0 +1,133 @@
+C:\Users\johnK\Desktop\简单扫雷 C#\Mines\Mines\Mines\bin\Debug\Mines.exe
+C:\Users\johnK\Desktop\简单扫雷 C#\Mines\Mines\Mines\bin\Debug\Mines.pdb
+C:\Users\johnK\Desktop\简单扫雷 C#\Mines\Mines\Mines\obj\Debug\Animal.AnimalMain.resources
+C:\Users\johnK\Desktop\简单扫雷 C#\Mines\Mines\Mines\obj\Debug\Mines.Properties.Resources.resources
+C:\Users\johnK\Desktop\简单扫雷 C#\Mines\Mines\Mines\obj\Debug\Animal.csproj.GenerateResource.Cache
+C:\Users\johnK\Desktop\简单扫雷 C#\Mines\Mines\Mines\obj\Debug\Mines.exe
+C:\Users\johnK\Desktop\简单扫雷 C#\Mines\Mines\Mines\obj\Debug\Mines.pdb
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\obj\Debug\Mines.exe
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\obj\Debug\Mines.pdb
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\bin\Debug\Mines.exe
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\bin\Debug\Mines.pdb
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\obj\Debug\Animal.AnimalMain.resources
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\obj\Debug\Mines.Properties.Resources.resources
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\obj\Debug\Animal.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\bin\Debug\imgs\大象红.png
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\bin\Debug\imgs\大象蓝.png
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\bin\Debug\imgs\狗红.png
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\bin\Debug\imgs\狗蓝.png
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\bin\Debug\imgs\狮子红.png
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\bin\Debug\imgs\狮子蓝.png
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\bin\Debug\imgs\狼红.png
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\bin\Debug\imgs\狼蓝.png
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\bin\Debug\imgs\猫红.png
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\bin\Debug\imgs\猫蓝.png
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\bin\Debug\imgs\老虎红.png
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\bin\Debug\imgs\老虎蓝.png
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\bin\Debug\imgs\老鼠红.png
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\bin\Debug\imgs\老鼠蓝.png
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\bin\Debug\imgs\豹子红.png
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\bin\Debug\imgs\豹子蓝.png
+C:\Users\Administrator\Desktop\斗兽棋翻牌版 C#\obj\Debug\Mines.GUIZE.resources
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\obj\Debug\Mines.exe
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\obj\Debug\Mines.pdb
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\bin\Debug\imgs\大象红.png
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\bin\Debug\imgs\大象蓝.png
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\bin\Debug\imgs\狗红.png
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\bin\Debug\imgs\狗蓝.png
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\bin\Debug\imgs\狮子红.png
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\bin\Debug\imgs\狮子蓝.png
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\bin\Debug\imgs\狼红.png
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\bin\Debug\imgs\狼蓝.png
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\bin\Debug\imgs\猫红.png
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\bin\Debug\imgs\猫蓝.png
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\bin\Debug\imgs\老虎红.png
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\bin\Debug\imgs\老虎蓝.png
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\bin\Debug\imgs\老鼠红.png
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\bin\Debug\imgs\老鼠蓝.png
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\bin\Debug\imgs\豹子红.png
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\bin\Debug\imgs\豹子蓝.png
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\bin\Debug\Mines.exe
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\bin\Debug\Mines.pdb
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\obj\Debug\Animal.AnimalMain.resources
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\obj\Debug\Mines.GUIZE.resources
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\obj\Debug\Mines.Properties.Resources.resources
+E:\我的坚果云\订单\斗兽棋翻牌版2.0C#\斗兽棋翻牌版 C#\obj\Debug\Animal.csproj.GenerateResource.Cache
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\大象红.png
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\大象蓝.png
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\狗红.png
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\狗蓝.png
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\狮子红.png
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\狮子蓝.png
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\狼红.png
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\狼蓝.png
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\猫红.png
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\猫蓝.png
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\老虎红.png
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\老虎蓝.png
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\老鼠红.png
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\老鼠蓝.png
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\豹子红.png
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\豹子蓝.png
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\bin\Debug\Mines.exe
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\bin\Debug\Mines.pdb
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\obj\Debug\Animal.csprojAssemblyReference.cache
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\obj\Debug\Animal.AnimalMain.resources
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\obj\Debug\Mines.GUIZE.resources
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\obj\Debug\Mines.Properties.Resources.resources
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\obj\Debug\Animal.csproj.GenerateResource.cache
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\obj\Debug\Mines.exe
+C:\Users\Sean\Google Drive\C#\project CS\斗兽棋\斗兽棋翻牌版 C# 2.0\obj\Debug\Mines.pdb
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\大象红.png
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\大象蓝.png
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\狗红.png
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\狗蓝.png
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\狮子红.png
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\狮子蓝.png
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\狼红.png
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\狼蓝.png
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\猫红.png
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\猫蓝.png
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\老虎红.png
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\老虎蓝.png
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\老鼠红.png
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\老鼠蓝.png
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\豹子红.png
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\bin\Debug\imgs\豹子蓝.png
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\bin\Debug\Mines.exe
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\bin\Debug\Mines.pdb
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\obj\Debug\Animal.csprojAssemblyReference.cache
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\obj\Debug\Animal.AnimalMain.resources
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\obj\Debug\Mines.GUIZE.resources
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\obj\Debug\Mines.Properties.Resources.resources
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\obj\Debug\Animal.csproj.GenerateResource.cache
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\obj\Debug\Mines.exe
+C:\Users\Sean\Desktop\斗兽棋翻牌版 C# 2.0\obj\Debug\Mines.pdb
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\bin\Debug\imgs\大象红.png
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\bin\Debug\imgs\大象蓝.png
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\bin\Debug\imgs\狗红.png
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\bin\Debug\imgs\狗蓝.png
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\bin\Debug\imgs\狮子红.png
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\bin\Debug\imgs\狮子蓝.png
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\bin\Debug\imgs\狼红.png
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\bin\Debug\imgs\狼蓝.png
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\bin\Debug\imgs\猫红.png
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\bin\Debug\imgs\猫蓝.png
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\bin\Debug\imgs\老虎红.png
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\bin\Debug\imgs\老虎蓝.png
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\bin\Debug\imgs\老鼠红.png
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\bin\Debug\imgs\老鼠蓝.png
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\bin\Debug\imgs\豹子红.png
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\bin\Debug\imgs\豹子蓝.png
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\bin\Debug\Mines.exe
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\bin\Debug\Mines.pdb
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\obj\Debug\Animal.csprojAssemblyReference.cache
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\obj\Debug\Animal.AnimalMain.resources
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\obj\Debug\Mines.GUIZE.resources
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\obj\Debug\Mines.Properties.Resources.resources
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\obj\Debug\Animal.csproj.GenerateResource.cache
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\obj\Debug\Mines.exe
+C:\Users\Sean\Google Drive\C#\Github\Jungle Board Game C# 3.0\obj\Debug\Mines.pdb
